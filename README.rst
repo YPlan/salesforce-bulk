@@ -1,6 +1,15 @@
 Salesforce Bulk
 ===============
 
+----
+
+NO LONGER USED
+--------------
+
+This library is no longer used or maintained by YPlan.
+
+----
+
 Python client library for accessing the asynchronous Salesforce.com Bulk
 API.
 
